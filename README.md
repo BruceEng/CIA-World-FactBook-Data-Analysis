@@ -8,6 +8,5 @@ In this project, we'll work with data from the CIA World Factbook found [here](h
 
 **I did plenty of extra research over and above what is called for in this Guided Project and came across very interesting information. For example, you will find out what island is known as "Mutiny on The Bounty" Island and hear some interesting things about it via Youtube Video.**
 
-[Click here for the pdf file](Analyze+CIA+Factbook+Data.pdf)
-Interesting Global Facts Uncovered via Data Analysis
+[Click here for the pdf file](Analyze+CIA+Factbook+Data.pdf) (if you prefer to download a pdf file).
  
